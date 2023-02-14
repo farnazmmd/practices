@@ -1,4 +1,4 @@
-import http, { get } from "http";
+import { get } from "http";
 import moment from 'moment';
 import fs from 'fs';
 import path from "path";
